@@ -1,0 +1,66 @@
+[Project]
+Version=1.2.21
+Count=1
+Filename1="C-To Infinity.cpp",1,"C-To Infinity.bdp",1,"C-To Infinity.cpp"
+
+[Compile]
+ResourceName=C-To Infinity.rc
+RunParam=
+Count=2
+Current=1
+
+[Compile1]
+DefName=Debug
+ExeName=C-To Infinity.exe
+MakeName=C-To Infinity.mak
+NoMakefile=0
+UseMakefileEx=0
+Target=-WC
+TargetSub=
+InstructionSet=-3
+Optimize=-Od
+Warnning=-w-
+Debug=-v -y
+Compiler=-k -b
+PreHeader=-H-
+Call=-pc
+Language=-AT
+Option=
+IncludePath=
+LibraryFile=
+Define=DEBUG
+ResIncludePath=
+OutputDir=Debug
+MakeBefore=
+MakeAfter=
+
+[Compile2]
+DefName=Release
+ExeName=C-To Infinity.exe
+MakeName=C-To Infinity.mak
+NoMakefile=0
+UseMakefileEx=0
+Target=-WC
+TargetSub=
+InstructionSet=-3
+Optimize=-O2
+Warnning=-w-
+Debug=
+Compiler=-k -b
+PreHeader=-H-
+Call=-pc
+Language=-AT
+Option=
+IncludePath=
+LibraryFile=
+Define=
+ResIncludePath=
+OutputDir=Release
+MakeBefore=
+MakeAfter=
+
+[OpenFiles]
+FileCount=1
+FileName1=C-To Infinity.cpp
+ActivePageIndex=0
+

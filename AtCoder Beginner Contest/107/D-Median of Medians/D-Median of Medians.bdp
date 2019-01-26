@@ -1,0 +1,66 @@
+[Project]
+Version=1.2.21
+Count=1
+Filename1="D-Median of Medians.cpp",1,"D-Median of Medians.bdp",1,"D-Median of Medians.cpp"
+
+[Compile]
+ResourceName=D-Median of Medians.rc
+RunParam=
+Count=2
+Current=1
+
+[Compile1]
+DefName=Debug
+ExeName=D-Median of Medians.exe
+MakeName=D-Median of Medians.mak
+NoMakefile=0
+UseMakefileEx=0
+Target=-WC
+TargetSub=
+InstructionSet=-3
+Optimize=-Od
+Warnning=-w-
+Debug=-v -y
+Compiler=-k -b
+PreHeader=-H-
+Call=-pc
+Language=-AT
+Option=
+IncludePath=
+LibraryFile=
+Define=DEBUG
+ResIncludePath=
+OutputDir=Debug
+MakeBefore=
+MakeAfter=
+
+[Compile2]
+DefName=Release
+ExeName=D-Median of Medians.exe
+MakeName=D-Median of Medians.mak
+NoMakefile=0
+UseMakefileEx=0
+Target=-WC
+TargetSub=
+InstructionSet=-3
+Optimize=-O2
+Warnning=-w-
+Debug=
+Compiler=-k -b
+PreHeader=-H-
+Call=-pc
+Language=-AT
+Option=
+IncludePath=
+LibraryFile=
+Define=
+ResIncludePath=
+OutputDir=Release
+MakeBefore=
+MakeAfter=
+
+[OpenFiles]
+FileCount=1
+FileName1=D-Median of Medians.cpp
+ActivePageIndex=0
+

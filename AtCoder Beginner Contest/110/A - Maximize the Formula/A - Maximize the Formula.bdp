@@ -1,0 +1,66 @@
+[Project]
+Version=1.2.21
+Count=1
+Filename1="A - Maximize the Formula.cpp",1,"A - Maximize the Formula.bdp",1,"A - Maximize the Formula.cpp"
+
+[Compile]
+ResourceName=A - Maximize the Formula.rc
+RunParam=
+Count=2
+Current=1
+
+[Compile1]
+DefName=Debug
+ExeName=A - Maximize the Formula.exe
+MakeName=A - Maximize the Formula.mak
+NoMakefile=0
+UseMakefileEx=0
+Target=-WC
+TargetSub=
+InstructionSet=-3
+Optimize=-Od
+Warnning=-w-
+Debug=-v -y
+Compiler=-k -b
+PreHeader=-H-
+Call=-pc
+Language=-AT
+Option=
+IncludePath=
+LibraryFile=
+Define=DEBUG
+ResIncludePath=
+OutputDir=Debug
+MakeBefore=
+MakeAfter=
+
+[Compile2]
+DefName=Release
+ExeName=A - Maximize the Formula.exe
+MakeName=A - Maximize the Formula.mak
+NoMakefile=0
+UseMakefileEx=0
+Target=-WC
+TargetSub=
+InstructionSet=-3
+Optimize=-O2
+Warnning=-w-
+Debug=
+Compiler=-k -b
+PreHeader=-H-
+Call=-pc
+Language=-AT
+Option=
+IncludePath=
+LibraryFile=
+Define=
+ResIncludePath=
+OutputDir=Release
+MakeBefore=
+MakeAfter=
+
+[OpenFiles]
+FileCount=1
+FileName1=A - Maximize the Formula.cpp
+ActivePageIndex=0
+

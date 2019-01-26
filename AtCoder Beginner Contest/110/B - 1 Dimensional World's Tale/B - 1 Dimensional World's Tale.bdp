@@ -1,0 +1,66 @@
+[Project]
+Version=1.2.21
+Count=1
+Filename1="B - 1 Dimensional World's Tale.cpp",1,"B - 1 Dimensional World's Tale.bdp",1,"B - 1 Dimensional World's Tale.cpp"
+
+[Compile]
+ResourceName=B - 1 Dimensional World's Tale.rc
+RunParam=
+Count=2
+Current=1
+
+[Compile1]
+DefName=Debug
+ExeName=B - 1 Dimensional World's Tale.exe
+MakeName=B - 1 Dimensional World's Tale.mak
+NoMakefile=0
+UseMakefileEx=0
+Target=-WC
+TargetSub=
+InstructionSet=-3
+Optimize=-Od
+Warnning=-w-
+Debug=-v -y
+Compiler=-k -b
+PreHeader=-H-
+Call=-pc
+Language=-AT
+Option=
+IncludePath=
+LibraryFile=
+Define=DEBUG
+ResIncludePath=
+OutputDir=Debug
+MakeBefore=
+MakeAfter=
+
+[Compile2]
+DefName=Release
+ExeName=B - 1 Dimensional World's Tale.exe
+MakeName=B - 1 Dimensional World's Tale.mak
+NoMakefile=0
+UseMakefileEx=0
+Target=-WC
+TargetSub=
+InstructionSet=-3
+Optimize=-O2
+Warnning=-w-
+Debug=
+Compiler=-k -b
+PreHeader=-H-
+Call=-pc
+Language=-AT
+Option=
+IncludePath=
+LibraryFile=
+Define=
+ResIncludePath=
+OutputDir=Release
+MakeBefore=
+MakeAfter=
+
+[OpenFiles]
+FileCount=1
+FileName1=B - 1 Dimensional World's Tale.cpp
+ActivePageIndex=0
+
